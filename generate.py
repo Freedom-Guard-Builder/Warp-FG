@@ -12,6 +12,7 @@ ipv4_list = data.get("ipv4", [])
 ipv6_list = data.get("ipv6", [])
 
 public_entries = [
+    "freedom-guard,;,configAuto=https://raw.githubusercontent.com/Freedom-Guard/Freedom-Guard/refs/heads/main/config/index.json&core=auto#برای برگشت به مخزن اصلی بر روی این کانفیگ کلیک کنید",
     "warp,;,gool=true&scan=true#WARP | GOOL+SCAN",
     "warp,;,cfon=true&scan=true#WARP | CFON RANDOM"
 ]
