@@ -1,5 +1,6 @@
 {
     "PUBLIC": [
+        "freedom-guard,;,configAuto=https://raw.githubusercontent.com/Freedom-Guard/Freedom-Guard/refs/heads/main/config/index.json&core=auto#برای برگشت به مخزن اصلی بر روی این کانفیگ کلیک کنید",
         "warp,;,gool=true&scan=true#WARP | GOOL+SCAN",
         "warp,;,cfon=true&scan=true#WARP | CFON RANDOM",
         "warp,;,endpoint=162.159.192.19:1701#WARP | 162.159.192.19:1701",
