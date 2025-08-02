@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      ENDPOINTS_URL: https://example.com/endpoints.json
+      ENDPOINTS_URL: https://raw.githubusercontent.com/ircfspace/endpoint/refs/heads/main/ip.json
       OUTPUT_FILE: result.json
 
     steps:
